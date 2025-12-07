@@ -132,7 +132,7 @@ This is the code for the estimate the profits and how he uses his money.
     print("This shows the floor division of his money by two:", floor_money)
     print(
         "This is how much he made if he gave half" +
-        "his money away to charity: $",
+        " his money away to charity: $",
         format(float(half_gone), ".2f"), sep="")
 
 
@@ -173,3 +173,4 @@ random number with either 5 or 10 guesses.
 
 if __name__ == "__main__":
     main()
+
